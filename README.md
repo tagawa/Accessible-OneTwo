@@ -28,4 +28,4 @@ Only show description heading if the site description has been set.
 
 ## License
 
-Licensed under the MIT license.
+Licensed under the [MIT license](http://opensource.org/licenses/MIT).
